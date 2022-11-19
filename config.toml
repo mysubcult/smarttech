@@ -1,6 +1,6 @@
 # baseURL = "https://смарттек.рф/"
-languageCode = "ru"
-defaultContentLanguage = "ru"
+languageCode = "en"
+defaultContentLanguage = "en"
 
 title = "SmartTech"
  copyright = "Copy, _right?_ :thinking_face:"
