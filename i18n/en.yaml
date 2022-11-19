@@ -37,11 +37,11 @@ link:
   twitter: Twitter
   whatsapp: WhatsApp
   youtube: YouTube
-  ozon: OZON
-  yandex: Yandex Market
+  ozon: Мы на OZON
+  yandex: Мы на Yandex Market
 
 nav:
   home: Home
 
 footer:
-  powered_by: "Powered by {{ .Hugo }} &amp; {{ .Lynx }}"
+  powered_by: "Powered by Artyom Gorin"
