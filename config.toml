@@ -14,11 +14,10 @@ disableKinds = ["taxonomy", "term"]
   image = "logo.png"  # path relative to static directory
 
   links = [
-     { email = "mailto:hello@your_domain.com" },
-     { ozon = "https://fontawesome.com", text = "FontAwesome" },
-     { yandex = "https://fontawesome.com", text = "FontAwesome" },
+     { ozon = "https://fontawesome.com" },
+     { yandex = "https://fontawesome.com" },
     # { link = "https://link-to-some-website.com/" },
-     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+    # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
     # { dev = "https://dev.to/username" },
@@ -52,6 +51,7 @@ disableKinds = ["taxonomy", "term"]
     # { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
     # { youtube = "https://youtube.com/username" },
+      { email = "mailto:hello@your_domain.com" },
   ]
 
 [module]
