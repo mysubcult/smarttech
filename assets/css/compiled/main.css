@@ -1180,8 +1180,8 @@ video {
 /* Scale SVG icons to text size */
 
 .icon svg {
-  height: 2em;
-  width: 2em;
+  height: 1.5em;
+  width: 1.5em;
 }
 
 /* Links */
