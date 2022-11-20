@@ -5,8 +5,8 @@
 
 /* Scale SVG icons to text size */
 .icon svg {
-  height: 1em;
-  width: 1em;
+  height: 2em;
+  width: 2em;
 }
 
 /* Links */
