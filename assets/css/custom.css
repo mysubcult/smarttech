@@ -2,9 +2,9 @@
   background: rgb(131, 58, 180);
   background: linear-gradient(
     90deg,
-    rgba(42, 26, 165, 1) 0%,
+    rgba(175, 213, 252, 1) 0%,
     rgba(108, 132, 242, 1) 50%,
-    rgba(108, 132, 242, 1) 100%
+    rgba(42, 26, 165, 1) 100%,
   );
 }
 .link-yandex {
