@@ -25,3 +25,20 @@
     rgba(255, 204, 0, 1) 100%
   );
 }
+.link-link {
+  background: rgb(131, 58, 180);
+  background: linear-gradient(
+    90deg,
+    rgba(175, 213, 252, 1) 0%,
+    rgba(108, 132, 242, 1) 50%,
+    rgba(42, 26, 165, 1) 100%
+  );
+}
+.link-email {
+  background: rgb(131, 58, 180);
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(112, 102, 65, 1) 50%,
+    rgba(255, 204, 0, 1) 100%
+  );
