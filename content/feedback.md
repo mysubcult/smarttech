@@ -1,6 +1,7 @@
 hugo new contact.md
 ''''
 {{< rawhtml >}}
+<link rel="stylesheet" href="/css/form.css">
 <div class="container">
   <h1>FormSubmit Demo</h1>
   <form target="_blank" action="https://formsubmit.co/your@email.com" method="POST">
