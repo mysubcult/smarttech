@@ -1,7 +1,7 @@
 ''''
 {{< rawhtml >}}
 <link rel="stylesheet" href="/css/form.css">
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSdp3oM_abe6u9ibZTBXWAA6aJM-nqMFJmjTcfwWbY9kCclP3A/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true">
+<form action="https://docs.google.com/forms/d/e/1FAIpQLScvH7c2oDa9ksNClTZOPCTGgzShJ7fzPA0KiV_uUic_frGcRg/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true">
   <label>Name*</label>
         <input type="text" placeholder="Name*" class="form-input" name="entry.2005620554" required>
 
