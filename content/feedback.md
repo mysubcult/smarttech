@@ -1,1 +1,1 @@
-[params.form]
+hugo new contact.md
