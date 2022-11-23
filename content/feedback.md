@@ -9,19 +9,19 @@ onload="if(submitted) {window.location='/thankyou';}"></iframe>
 method="post" target="hidden_iframe" onsubmit="submitted=true;">
 </form>
 <form action="https://docs.google.com/forms/d/e/1FAIpQLScvH7c2oDa9ksNClTZOPCTGgzShJ7fzPA0KiV_uUic_frGcRg/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true">
-  <label>Name*</label>
-        <input type="text" placeholder="Name*" class="form-input" name="entry.2005620554" required>
+  <label>Ваше имя</label>
+        <input type="text" placeholder="Ваше имя" class="form-input" name="entry.2005620554" required>
 
-  <label>Email*</label>
-        <input type="email" placeholder="Email address*" class="form-input" name="entry.1045781291" required>
+  <label>Email</label>
+        <input type="email" placeholder="Email адрес" class="form-input" name="entry.1045781291" required>
 
-   <label>Subject*</label>
-        <input type="text" placeholder="Subject*" class="form-input" name="entry.1065046570" required>
+   <label>Тема сообщения</label>
+        <input type="text" placeholder="Тема сообщения" class="form-input" name="entry.1065046570" required>
 
-   <label>Message</label>
-        <textarea rows="5" placeholder="Message" class="form-input" name="entry.839337160" ></textarea>
+   <label>Сообщение</label>
+        <textarea rows="5" placeholder="Сообщение" class="form-input" name="entry.839337160" ></textarea>
 
-   <button type="submit">Send</button>
+   <button type="submit">Отправить</button>
 </form>
 {{< /rawhtml >}}
 ''''
