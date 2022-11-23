@@ -1,4 +1,3 @@
-''''
 {{< rawhtml >}}
 <link rel="stylesheet" href="/css/form.css">
 <form action="https://docs.google.com/forms/d/e/<formID/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true">
