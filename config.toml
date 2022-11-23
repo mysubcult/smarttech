@@ -58,3 +58,10 @@ disableKinds = ["taxonomy", "term"]
   [module.hugoVersion]
     extended = false
     min = "0.86.1"
+################################### widgets #######################
+[params.form]
+formID="1FAIpQLSdp3oM_abe6u9ibZTBXWAA6aJM-nqMFJmjTcfwWbY9kCclP3A"
+name="entry.2005620554"
+email="entry.1045781291"
+subject="entry.1065046570"
+message="entry.839337160"
