@@ -1,7 +1,7 @@
 hugo new contact.md
 ''''
 {{< rawhtml >}}
-<link rel="stylesheet" href="/css/form.css">
+<link rel="stylesheet" href="/assets/css/form.css">
 <form action="https://docs.google.com/forms/d/e/<formID/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true">
   <label>Name*</label>
         <input type="text" placeholder="Name*" class="form-input" name="entry.719211028" required>
