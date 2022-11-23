@@ -5,7 +5,7 @@
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
 onload="if(submitted) {window.location='/thankyou';}"></iframe>
 
-<form action="https://docs.google.com/forms/d/e/<formID>/formResponse" 
+<form action="https://docs.google.com/forms/d/e/1FAIpQLScvH7c2oDa9ksNClTZOPCTGgzShJ7fzPA0KiV_uUic_frGcRg/formResponse" 
 method="post" target="hidden_iframe" onsubmit="submitted=true;">
 </form>
 <form action="https://docs.google.com/forms/d/e/1FAIpQLScvH7c2oDa9ksNClTZOPCTGgzShJ7fzPA0KiV_uUic_frGcRg/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true">
