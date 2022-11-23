@@ -1,4 +1,5 @@
 ''''
+<h1>Обратная связь<h1>
 {{< rawhtml >}}
 <link rel="stylesheet" href="/css/form.css">
 <form action="https://docs.google.com/forms/d/e/1FAIpQLScvH7c2oDa9ksNClTZOPCTGgzShJ7fzPA0KiV_uUic_frGcRg/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true">
