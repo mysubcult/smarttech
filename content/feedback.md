@@ -2,8 +2,8 @@
 title: Обратная связь
 ---
 
-These are all the built-in link styles available in Lynx. Don't forget that you can also create your own styles --- check the [readme](https://github.com/jpanther/lynx/blob/stable/README.md) for more details.
-<br><br>
+Мы отвечаем на email сообщения в течение 48 часов. Если у вас очень срочный вопрос, то вы можете связаться с нами через Telegram-бота: [@stfeedback_robot](https://t.me/stfeedback_robot)
+<br>
 
 {{< rawhtml >}}
 <link rel="stylesheet" href="/css/form.css">
