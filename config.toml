@@ -53,7 +53,7 @@ disableKinds = ["taxonomy", "term"]
     # { youtube = "https://youtube.com/username" },
       { email = "feedback/", target = "_self" },
    { font-awesome = { href = "https://fontawesome.com/", text = "FontAwesome" } }, 
-   { link = { href = "styles/", text = "All the link styles", target = "_self" } },
+   { email = { href = "feedback/", text = "Написать нам email", target = "_self" } },
   ]
 
 [module]
