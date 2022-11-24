@@ -10,7 +10,7 @@ font-size: 18px;
 border-radius: 5px;
 line-height: 22px;
 background-color: transparent;
-border:2px solid #CC6666;
+border:2px solid #f83d3f;
 transition: all 0.3s;
 padding: 13px;
 margin-bottom: 15px;
@@ -30,7 +30,7 @@ resize:vertical;
 [type="submit"] {
 font-family: 'Montserrat', Arial, Helvetica, sans-serif;
 width: 100%;
-background:#CC6666;
+background:#f83d3f;
 border-radius:5px;
 border:0;
 cursor:pointer;
