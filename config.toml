@@ -52,6 +52,7 @@ disableKinds = ["taxonomy", "term"]
     # { whatsapp = "https://wa.me/phone-number" },
     # { youtube = "https://youtube.com/username" },
       { email = "feedback/", target = "_self" },
+   { font-awesome = { href = "https://fontawesome.com/", text = "FontAwesome" } },   
   ]
 
 [module]
