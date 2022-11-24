@@ -51,7 +51,7 @@ disableKinds = ["taxonomy", "term"]
     # { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
     # { youtube = "https://youtube.com/username" },
-      { email = "https://смарттек.рф/feedback/" },
+      { email = "feedback/", target = "_self" },
   ]
 
 [module]
