@@ -1,6 +1,10 @@
 ---
 title: Обратная связь
 ---
+
+These are all the built-in link styles available in Lynx. Don't forget that you can also create your own styles --- check the [readme](https://github.com/jpanther/lynx/blob/stable/README.md) for more details.
+<br><br>
+
 {{< rawhtml >}}
 <link rel="stylesheet" href="/css/form.css">
 <script type="text/javascript">var submitted=false;</script>
