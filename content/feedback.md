@@ -18,7 +18,12 @@ method="post" target="hidden_iframe" onsubmit="submitted=true;">
         <input type="email" placeholder="Введите ваш Email адрес" class="form-input" name="entry.1045781291" required>
 
    <label>Тема сообщения:</label>
-        <input type="text" placeholder="Укажите тему сообщения" class="form-input" name="entry.1065046570" required>
+        <select name="entry.1065046570" id="topics" class="form-input" required>
+          <option value="Вопрос о товаре">Вопрос о товаре</option>
+          <option value="Сообщение о проблеме">Сообщение о проблеме</option>
+        </select>
+  
+        <!--<input type="text" placeholder="Укажите тему сообщения" class="form-input" name="entry.1065046570">-->
 
    <label>Сообщение:</label>
         <textarea rows="5" placeholder="Введите текст сообщения" class="form-input" name="entry.839337160" required></textarea>
