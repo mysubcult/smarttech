@@ -1,4 +1,6 @@
-Проверка
+---
+title: Обратная связь
+---
 {{< rawhtml >}}
 <link rel="stylesheet" href="/css/form.css">
 <script type="text/javascript">var submitted=false;</script>
