@@ -24,4 +24,4 @@ method="post" target="hidden_iframe" onsubmit="submitted=true;">
    <button type="submit">Отправить</button>
 </form>
 {{< /rawhtml >}}
-''''
+
