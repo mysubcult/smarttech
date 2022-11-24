@@ -16,7 +16,7 @@ method="post" target="hidden_iframe" onsubmit="submitted=true;">
         <input type="email" placeholder="Введите ваш Email адрес" class="form-input" name="entry.1045781291" required>
 
    <label>Тема сообщения:</label>
-        <input type="select" placeholder="Укажите тему сообщения" class="form-input" name="entry.1065046570" required>
+        <input type="select" placeholder="Укажите тему сообщения" class="select" name="entry.1065046570" required>
 
    <label>Сообщение:</label>
         <textarea rows="5" placeholder="Введите текст сообщения" class="form-input" name="entry.839337160" required></textarea>
