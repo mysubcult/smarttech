@@ -19,7 +19,7 @@ method="post" target="hidden_iframe" onsubmit="submitted=true;">
         <input type="text" placeholder="Укажите тему сообщения" class="form-input" name="entry.1065046570" required>
 
    <label>Сообщение:</label>
-        <textarea rows="5" placeholder="Введите текст сообщения" class="form-input" name="entry.839337160" ></textarea>
+        <textarea rows="5" placeholder="Введите текст сообщения" class="form-input" name="entry.839337160" required></textarea>
 
    <button type="submit">Отправить</button>
 </form>
