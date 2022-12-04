@@ -1,7 +1,12 @@
 ---
 title: Обратная связь
 ---
-
+---
+date: Обратная связь
+---
+---
+description: Обратная связь
+---
 Мы отвечаем на email сообщения в течение 48 часов. Если у вас очень срочный вопрос, то вы можете связаться с нами через Telegram-бота: [@stfeedback_robot](https://t.me/stfeedback_robot)
 {{< rawhtml >}}
 <link rel="stylesheet" href="/css/form.css">
