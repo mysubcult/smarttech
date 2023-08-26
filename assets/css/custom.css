@@ -43,3 +43,7 @@
     rgba(37, 163, 255, 1) 100%
   );
 }
+
+#lhc_status_widget_v2  {
+    box-shadow: rgba(50, 50, 50, 0.5) 0px 0px 14px, 0px 0px 0px 0px #ffffff !important;
+}
